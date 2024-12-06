@@ -1,0 +1,24 @@
+
+#01 --> Breakpoint	Class infix	Dimensions
+        Extra extra small	None	0–320px
+        Extra small	xs	≥320px
+        Small	sm	≥576px
+        Medium	md	≥768px
+        Large	lg	≥1024px
+        Extra large	xl	≥1280px
+        Extra extra large	2xl	≥ 1536px 
+
+#02 --> Extend Topic
+        you can include other feature,according to you!
+
+#03 --> max-width
+        using arbitrary values
+        custom values how to add into tailwind css codebase
+        custom background-color
+        custom color
+        custom padding
+        custom margin
+        custom font-size
+        snytax -> bg-["------"]
+
+
